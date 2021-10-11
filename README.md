@@ -5,7 +5,7 @@ All functions are O(1) except for the first creation, free and search.
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Toooo123/List-Implementation.git
+git clone https://github.com/Tooo/List-Implementation.git
 ```
 2. Make the objects and executable file: 
 ```bash
